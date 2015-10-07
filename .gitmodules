@@ -1,0 +1,6 @@
+[submodule "svgpp"]
+	path = svgpp
+	url = https://github.com/svgpp/svgpp.git
+[submodule "boost"]
+	path = boost
+	url = https://github.com/boostorg/boost.git
