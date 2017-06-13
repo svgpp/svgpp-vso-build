@@ -1,1 +1,4 @@
 SET PATH=C:\Program Files (x86)\CMake\bin\;%PATH%
+SET
+SET BOOST_ROOT=%BUILD_SOURCESDIRECTORY%\boost
+SET
